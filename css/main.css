@@ -1284,7 +1284,7 @@ body {
 .long-g .leaf {
   --w: 15vmin;
   --h: 40vmin;
-  --c: #b196bc;
+  --c: #00ff09;
   position: absolute;
   bottom: 0;
   width: var(--w);
